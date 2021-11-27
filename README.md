@@ -60,7 +60,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com, [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/en/) or [NPM](https://www.npmjs.com/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/en/) or [NPM](https://www.npmjs.com/) installed.
 
 ## :checkered_flag: Starting ##
 
