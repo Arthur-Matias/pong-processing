@@ -48,7 +48,7 @@
 
 Game Pong made in Processing/p5.js
 
-To play it you can use the Arrow Keys to move the right pad, and "W"/"S" to move the left pad.
+To play it you can use the "Up" and "Down" Arrow Keys to move the right pad, and "W"/"S" to move the left pad.
 
 ## :rocket: Technologies ##
 
