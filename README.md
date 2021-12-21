@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/Pong.png" alt="Pong Processing" />
+  <img src="./assets/Pong.png" alt="Pong Processing" />
 
   &#xa0;
 
